@@ -5,12 +5,13 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Jill Naiman 
+title               : Group 19 
 description         : >-
-                      I am definitely not a corgi!
+                      
+                      Github page for IS 445 Group 19 (this pic is my adorable puppy Aki, hope she can make your day better)
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
-repository          : jnaiman               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : lesleydw.github.io               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -34,13 +35,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  name              : Weiyu Wang and Jaylen Mao
+  image             : https://www.linkpicture.com/q/WechatIMG80.jpeg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : weiyuw2@illinois.edu
 #  facebook          : your_username
-  github            : jnaiman # JPN
+  github            : lesleydw # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username

@@ -5,16 +5,6 @@ permalink: /about/
 weight: 3
 ---
 
-# **About Me**
+# **About Us**
 
-Hi I am **{{ site.author.name }}**,<br>
-possibly a corgi, most definitely not!  Either way there are really neat things I am up to!
-
-<div class="row">
-{% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-{% include about/skills.html title="Other Skills" source=site.data.other-skills %}
-</div>
-
-<div class="row">
-{% include about/timeline.html %}
-</div>
+Hi! We're Jaylen Mao and Weiyu Wang, group 19, welcome to our final project page.
